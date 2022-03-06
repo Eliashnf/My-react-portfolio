@@ -1,0 +1,5 @@
+.should__not__be__here{
+  background: var(--color-bg-variant);
+  height: 100vh;
+  text-align: center;
+}

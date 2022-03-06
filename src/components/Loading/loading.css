@@ -1,0 +1,8 @@
+.over{
+    height: 100vh;
+    background: #070D2B;
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

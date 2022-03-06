@@ -1,0 +1,25 @@
+$bgWidth: 10000px;
+
+body{
+    background: linear-gradient(to right, #070D2B 0%,#000312 19%,#000312 40%,#070D2B 60%,#000312 83%,#070D2B 100%); 
+    background-size: $bgWidth 100%;
+    animation: bg 15s linear infinite ;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 0;
+    font-family: "Manrope", sans-serif;
+    color: var(--color-white);
+    line-height: 1.7;
+}
+
+
+@keyframes bg{
+    0%{
+      background-position-x: 0;
+    }
+    
+    100%{
+      background-position-x: $bgWidth;
+    }
+}
