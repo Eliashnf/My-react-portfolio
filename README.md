@@ -6,8 +6,8 @@ This site was initially developed to train me in reactjs. But I also wanted to h
 Where all my imagination will be displayed
 
 ### The future projects I will add to my web site:
-
+  ```diff
   -Blogging Application \
   -Social Media \
   -Fun little Games \
-  -Ambiance Sound Track \
+  -Ambiance Sound Track 
