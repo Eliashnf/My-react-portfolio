@@ -3,9 +3,9 @@
 This site was initially developed to train me in reactjs. But I also wanted to have a site that would highlight my projects, whatever they were. \
 
 ### So let me introduce you to my special place
-Where all my imagination will be displayed \\
+Where all my imagination will be displayed \
     
-  Come say Hi :wave: : [Eliashnf.com](https://eliashnf.com)
+  Come say Hi :wave: here [Eliashnf.com](https://eliashnf.com)
 
 ### The future projects I will add to my web site:
   ```diff
