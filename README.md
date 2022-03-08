@@ -7,7 +7,7 @@ Where all my imagination will be displayed
 
 ### The future projects I will add to my web site:
   ```diff
-  -Blogging Application \
-  -Social Media \
-  -Fun little Games \
+  -Blogging Application 
+  -Social Media 
+  -Fun little Games 
   -Ambiance Sound Track 
