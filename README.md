@@ -7,6 +7,6 @@ Where all my imagination will be displayed
 
 ## The future projects I will add to my web site:
 
-  -Blogging Application
-  -Social Media
+  -Blogging Application \
+  -Social Media \
   -Fun little Games
